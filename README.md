@@ -19,9 +19,9 @@ So I built a simple fix based on my own interpretation of how this interaction c
 
 ## Demo
 
-[![Preview](./Demo/demo-preview.gif)](./Demo/demo.mov)
+[![Preview](Demo/demo-preview.gif)](Demo/demo.mov)
 
-Video: [Watch demo](./Demo/demo.mov)
+Video: [Watch demo](Demo/demo.mov)
 
 ## Notes
 Please note that this code is not optimized and is intended only for demonstration purposes.
