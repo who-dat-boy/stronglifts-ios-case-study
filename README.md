@@ -19,7 +19,7 @@ So I built a simple fix based on my own interpretation of how this interaction c
 
 ## Demo
 
-[![Preview](Demo/demo-preview.gif)](Demo/demo.mov)
+[![Preview](Demo/demo_preview.gif)]
 
 Video: [Watch demo](Demo/demo.mov)
 
