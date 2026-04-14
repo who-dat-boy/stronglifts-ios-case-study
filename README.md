@@ -18,8 +18,7 @@ So I built a simple fix based on my own interpretation of how this interaction c
 - Gesture-driven input flow
 
 ## Demo
-
-[![Preview](Demo/demo_preview.gif)]
+<img src="Demo/demo_preview.gif" alt="Demo" width="260" />
 
 Video: [Watch demo](Demo/demo.mov)
 
